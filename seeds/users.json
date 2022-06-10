@@ -3,7 +3,10 @@
       "id": 1,
       "name": "Leanne Graham",
       "username": "Bret",
-      "email": "Sincere@april.biz"
+      "email": "Sincere@april.biz",
+      "thoughts": "Why would they name me Bret...",
+      "friends": "Josh Davies",
+      "friendCount": 1
     },
     {
       "id": 2,
